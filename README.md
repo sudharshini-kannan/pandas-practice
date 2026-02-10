@@ -76,7 +76,7 @@ genes.csv
 
 ---
 
-# 🆕 Biopython + pandas Mini Pipeline
+# Biopython + pandas Mini Pipeline
 
 Today I combined **Biopython + pandas** to build a small real-world bioinformatics workflow.
 
